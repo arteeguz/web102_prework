@@ -1,23 +1,19 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - *Sea Monster Crowdfunding*
 
 Submitted by: **Artem Guz**
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**Sea Monster Crowdfunding** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: **6** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-* [ ] The introduction section explains the background of the company and how many games remain unfunded.
-* [ ] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
-* [ ] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
-* [ ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
-
-The following **optional** features are implemented:
-
-* [ ] List anything else that you can get done to improve the app functionality!
+* [x] The introduction section explains the background of the company and how many games remain unfunded.
+* [x] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
+* [x] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
+* [x] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
 ## Video Walkthrough
 
@@ -26,7 +22,7 @@ Here's a walkthrough of implemented features:
 ![ArtemGuz_odePath_WebDev](https://github.com/codepath/web102_prework/assets/118378371/b9508f74-5a22-47e1-a296-351dcde28e0a)
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with OBS and file converter 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -34,11 +30,11 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Challenges encountered during the project included mastering JavaScript's array manipulation methods like filter, reduce, and understanding DOM manipulation for dynamically updating the webpage. Implementing the sorting algorithm for the top funded games and ensuring the grammatical accuracy of dynamically generated text were also complex tasks.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2024] [Artem Guz]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
