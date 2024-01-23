@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![ArtemGuz_odePath_WebDev](https://github.com/codepath/web102_prework/assets/118378371/b9508f74-5a22-47e1-a296-351dcde28e0a)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
